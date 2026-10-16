@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wisekey.co/sitemap.xml
+Sitemap: https://www.wisekey.co/sitemap.xml
